@@ -1,0 +1,19 @@
+﻿@model IEnumerable<Models.Product>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Products</title>
+    <script src="~/Scripts/jQuery.js"></script>
+</head>
+<body>
+    @foreach(var product in Model)
+    {
+    <div>
+        <a href="/Product/Product/@product.Id">Name: @product.Name</a>
+    </div>
+    <br />
+    }
+    <br />
+    <a href="/Product/CreateProduct">Create Product</a>
+</body>
+</html>

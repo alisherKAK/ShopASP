@@ -1,0 +1,19 @@
+﻿@model Models.Product
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Create Product</title>
+</head>
+<body>
+    <h2>Create</h2>
+    <form action="/Product/CreateProductPost" method="post">
+        <p>Name:</p><input type="text" name="Name" value="@Model.Name" /><br />
+        @Html.ValidationMessageFor(model => model.Name)
+        <p>Price:</p><input type="number" name="Price" value="@Model.Price" /><br />
+        @Html.ValidationMessageFor(model => model.Price)
+        <p>Description:</p><input type="text" name="Description" value="@Model.Description" /><br />
+        @Html.ValidationMessageFor(model => model.Description)
+        <input type="submit" name="sub" value="Create" />
+    </form>
+</body>
+</html>

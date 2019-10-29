@@ -1,0 +1,17 @@
+﻿@model Models.User
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <form action="/User/SignInPost" method="post">
+        <p>Login:</p>
+        <input type="text" name="Login" value="@Model.Login" /><br />
+        <p>Password:</p>
+        <input type="password" name="Password" value="" /><br />
+        <input type="submit" name="sub" value="Sign In" />
+    </form>
+    <a href="/User/SignUp">Sign Up</a>
+</body>
+</html>

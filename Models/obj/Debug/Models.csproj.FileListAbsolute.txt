@@ -1,0 +1,14 @@
+C:\Users\калабаева\source\repos\WebApp24.10.19\Models\bin\Debug\Models.dll
+C:\Users\калабаева\source\repos\WebApp24.10.19\Models\bin\Debug\Models.pdb
+C:\Users\калабаева\source\repos\WebApp24.10.19\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\калабаева\source\repos\WebApp24.10.19\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\калабаева\source\repos\WebApp24.10.19\Models\obj\Debug\Models.dll
+C:\Users\калабаева\source\repos\WebApp24.10.19\Models\obj\Debug\Models.pdb
+C:\Users\калабаева\source\repos\Shop\Models\bin\Debug\Models.dll
+C:\Users\калабаева\source\repos\Shop\Models\bin\Debug\Models.pdb
+C:\Users\калабаева\source\repos\Shop\Models\bin\Debug\RestSharp.dll
+C:\Users\калабаева\source\repos\Shop\Models\bin\Debug\RestSharp.xml
+C:\Users\калабаева\source\repos\Shop\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\калабаева\source\repos\Shop\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\калабаева\source\repos\Shop\Models\obj\Debug\Models.dll
+C:\Users\калабаева\source\repos\Shop\Models\obj\Debug\Models.pdb
