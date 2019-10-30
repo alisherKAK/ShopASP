@@ -28,7 +28,7 @@ namespace WebApp24._10._19.Controllers
                 {
                     context.Users.Add(user);
                     context.SaveChanges();
-                    Logger.Log($"Added to DB User: {user.Id}", "user");
+                    Logger.Log(Server.MapPath("~/"), $"Added to DB User: {user.Id}", "user");
                 }
                 return RedirectToAction("SignIn", user);
             }

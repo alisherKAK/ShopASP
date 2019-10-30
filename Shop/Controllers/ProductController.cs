@@ -32,7 +32,7 @@ namespace WebApp24._10._19.Controllers
 
         public ActionResult CreateProduct(Product product)
         {
-            return View(product);
+            return View();
         }
 
         [HttpPost]
@@ -44,7 +44,7 @@ namespace WebApp24._10._19.Controllers
                 {
                     context.Products.Add(product);
                     context.SaveChanges();
-                    //Logger.Log($"Added to DB Product: {product.Id}", "product");
+                    Logger.Log(Server.MapPath("~/"), $"Added to DB Product: {product.Id}", "product");
                 }
                 return RedirectToAction("Index");
             }
@@ -61,7 +61,7 @@ namespace WebApp24._10._19.Controllers
                 {
                     context.Products.Add(product);
                     context.SaveChanges();
-                    //Logger.Log($"Added to DB Product: {product.Id}", "product");
+                    Logger.Log(Server.MapPath("~/"), $"Added to DB Product: {product.Id}", "product");
                 }
                 return RedirectToAction("Index");
             }
