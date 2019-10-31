@@ -6,15 +6,20 @@ using System.Web.Mvc;
 
 namespace Shop.Controllers
 {
-    public class ProductController : Controller
+    public class PaymentController : Controller
     {
-        // GET: Product
-        public ActionResult Products()
+        // GET: Payment
+        public ActionResult Cart()
         {
             return View();
         }
 
-        public ActionResult Product()
+        public ActionResult Checkout()
+        {
+            return View();
+        }
+
+        public ActionResult Thanks()
         {
             return View();
         }

@@ -29,3 +29,4 @@ C:\Users\калабаева\source\repos\Shop\DataAccess\obj\Debug\DataAccess.Mi
 C:\Users\калабаева\source\repos\Shop\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.cache
 C:\Users\калабаева\source\repos\Shop\DataAccess\obj\Debug\DataAccess.Migrations.UpdateUser.resources
 C:\Users\калабаева\source\repos\Shop\DataAccess\obj\Debug\DataAccess.Migrations.DelteImgFromProduct.resources
+C:\Users\калабаева\source\repos\Shop\DataAccess\obj\Debug\DataAccess.Migrations.UpdateProduct.resources

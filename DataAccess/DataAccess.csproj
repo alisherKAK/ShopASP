@@ -64,6 +64,10 @@
     <Compile Include="Migrations\201910291507168_DelteImgFromProduct.Designer.cs">
       <DependentUpon>201910291507168_DelteImgFromProduct.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201910311406404_UpdateProduct.cs" />
+    <Compile Include="Migrations\201910311406404_UpdateProduct.Designer.cs">
+      <DependentUpon>201910311406404_UpdateProduct.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ShopContext.cs" />
@@ -87,6 +91,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201910291507168_DelteImgFromProduct.resx">
       <DependentUpon>201910291507168_DelteImgFromProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201910311406404_UpdateProduct.resx">
+      <DependentUpon>201910311406404_UpdateProduct.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

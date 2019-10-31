@@ -53,6 +53,7 @@
   <ItemGroup>
     <Compile Include="Base64EncoderDecoder.cs" />
     <Compile Include="FileServices.cs" />
+    <Compile Include="HtmlTemplater.cs" />
     <Compile Include="Logger.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
