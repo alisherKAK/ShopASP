@@ -85,3 +85,5 @@ C:\Users\калабаева\source\repos\Shop\Shop\obj\Debug\Shop.pdb
 C:\Users\калабаева\source\repos\Shop\Shop\bin\Services.dll
 C:\Users\калабаева\source\repos\Shop\Shop\bin\Services.pdb
 C:\Users\калабаева\source\repos\Shop\Shop\bin\Services.dll.config
+C:\Users\калабаева\source\repos\Shop\Shop\bin\BCrypt.Net.dll
+C:\Users\калабаева\source\repos\Shop\Shop\bin\BCrypt.Net.xml

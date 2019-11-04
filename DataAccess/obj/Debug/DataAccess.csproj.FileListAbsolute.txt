@@ -30,3 +30,5 @@ C:\Users\калабаева\source\repos\Shop\DataAccess\obj\Debug\DataAccess.cs
 C:\Users\калабаева\source\repos\Shop\DataAccess\obj\Debug\DataAccess.Migrations.UpdateUser.resources
 C:\Users\калабаева\source\repos\Shop\DataAccess\obj\Debug\DataAccess.Migrations.DelteImgFromProduct.resources
 C:\Users\калабаева\source\repos\Shop\DataAccess\obj\Debug\DataAccess.Migrations.UpdateProduct.resources
+C:\Users\калабаева\source\repos\Shop\DataAccess\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\калабаева\source\repos\Shop\DataAccess\bin\Debug\ru\EntityFramework.SqlServer.resources.dll

@@ -11,6 +11,13 @@ namespace Shop.Controllers
         // GET: Shop
         public ActionResult Index()
         {
+            //var cookie = new HttpCookie("userName", "admin");
+            //cookie.Expires = DateTime.Now.AddMinutes(10);
+            //HttpContext.Response.Cookies.Add(cookie);
+
+            //Session["userName"] = Session.SessionID;
+            //Session.Timeout = 50;
+            //Session.Abandon();
 
             return View();
         }
