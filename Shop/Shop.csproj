@@ -127,9 +127,16 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\CategoryRepository.cs" />
+    <Compile Include="Controllers\Fabric.cs" />
+    <Compile Include="Controllers\IFabric.cs" />
+    <Compile Include="Controllers\IRepository.cs" />
+    <Compile Include="Controllers\IShopService.cs" />
     <Compile Include="Controllers\PaymentController.cs" />
     <Compile Include="Controllers\ProductController.cs" />
+    <Compile Include="Controllers\ProductRepository.cs" />
     <Compile Include="Controllers\ShopController.cs" />
+    <Compile Include="Controllers\ShopService.cs" />
     <Compile Include="Controllers\UserController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -137,6 +144,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\signIn.css" />
     <Content Include="css\aos.css" />
     <Content Include="css\bootstrap-datepicker.css" />
     <Content Include="css\bootstrap.min.css" />
@@ -195,13 +203,10 @@
       <DependentUpon>Web.config</DependentUpon>
     </Content>
     <Content Include="Views\Web.config" />
-    <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Product\CreateProduct.cshtml" />
     <Content Include="Views\Product\Product.cshtml" />
     <Content Include="Views\User\SignIn.cshtml" />
     <Content Include="Views\User\SignUp.cshtml" />
-    <Content Include="Views\Shared\Error.cshtml" />
-    <Content Include="Views\Shared\_Layout.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

@@ -10,5 +10,6 @@ namespace Models
         public string Description { get; set; }
         public int Amount { get; set; }
         public string Image { get; set; }
+        public int CategoryId { get; set; }
     }
 }

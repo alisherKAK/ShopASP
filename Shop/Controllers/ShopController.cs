@@ -8,6 +8,12 @@ namespace Shop.Controllers
 {
     public class ShopController : Controller
     {
+        private IShopService shopService;
+        public ShopController()
+        {
+            Fabric fabric = new Fabric();
+            shopService =  fabric.Get();
+        }
         // GET: Shop
         public ActionResult Index()
         {
