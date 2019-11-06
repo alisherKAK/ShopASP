@@ -1,0 +1,5 @@
+C:\Users\калабаева\source\repos\Shop\AbstractModels\bin\Debug\AbstractModels.dll
+C:\Users\калабаева\source\repos\Shop\AbstractModels\bin\Debug\AbstractModels.pdb
+C:\Users\калабаева\source\repos\Shop\AbstractModels\obj\Debug\AbstractModels.csprojAssemblyReference.cache
+C:\Users\калабаева\source\repos\Shop\AbstractModels\obj\Debug\AbstractModels.dll
+C:\Users\калабаева\source\repos\Shop\AbstractModels\obj\Debug\AbstractModels.pdb

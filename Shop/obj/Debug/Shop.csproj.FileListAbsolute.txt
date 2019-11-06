@@ -87,3 +87,14 @@ C:\Users\калабаева\source\repos\Shop\Shop\bin\Services.pdb
 C:\Users\калабаева\source\repos\Shop\Shop\bin\Services.dll.config
 C:\Users\калабаева\source\repos\Shop\Shop\bin\BCrypt.Net.dll
 C:\Users\калабаева\source\repos\Shop\Shop\bin\BCrypt.Net.xml
+C:\Users\калабаева\source\repos\Shop\Shop\bin\Ninject.dll
+C:\Users\калабаева\source\repos\Shop\Shop\bin\Ninject.Web.Common.dll
+C:\Users\калабаева\source\repos\Shop\Shop\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\калабаева\source\repos\Shop\Shop\bin\Ninject.Web.Mvc.dll
+C:\Users\калабаева\source\repos\Shop\Shop\bin\Models.dll.config
+C:\Users\калабаева\source\repos\Shop\Shop\bin\Ninject.xml
+C:\Users\калабаева\source\repos\Shop\Shop\bin\Ninject.Web.Common.xml
+C:\Users\калабаева\source\repos\Shop\Shop\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\калабаева\source\repos\Shop\Shop\bin\Ninject.Web.Mvc.xml
+C:\Users\калабаева\source\repos\Shop\Shop\bin\AbstractModels.dll
+C:\Users\калабаева\source\repos\Shop\Shop\bin\AbstractModels.pdb

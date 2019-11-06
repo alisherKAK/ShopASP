@@ -32,3 +32,5 @@ C:\Users\калабаева\source\repos\Shop\DataAccess\obj\Debug\DataAccess.Mi
 C:\Users\калабаева\source\repos\Shop\DataAccess\obj\Debug\DataAccess.Migrations.UpdateProduct.resources
 C:\Users\калабаева\source\repos\Shop\DataAccess\bin\Debug\ru\EntityFramework.resources.dll
 C:\Users\калабаева\source\repos\Shop\DataAccess\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\калабаева\source\repos\Shop\DataAccess\bin\Debug\Models.dll.config
+C:\Users\калабаева\source\repos\Shop\DataAccess\obj\Debug\DataAccess.Migrations.ChageUser.resources

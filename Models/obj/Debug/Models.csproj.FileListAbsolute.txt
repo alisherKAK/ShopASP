@@ -25,3 +25,12 @@ C:\Users\калабаева\source\repos\Shop\Models\bin\Debug\System.Web.Razor.
 C:\Users\калабаева\source\repos\Shop\Models\bin\Debug\System.Web.WebPages.xml
 C:\Users\калабаева\source\repos\Shop\Models\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\Users\калабаева\source\repos\Shop\Models\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\калабаева\source\repos\Shop\Models\bin\Debug\Models.dll.config
+C:\Users\калабаева\source\repos\Shop\Models\bin\Debug\EntityFramework.dll
+C:\Users\калабаева\source\repos\Shop\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\калабаева\source\repos\Shop\Models\bin\Debug\EntityFramework.xml
+C:\Users\калабаева\source\repos\Shop\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\калабаева\source\repos\Shop\Models\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\калабаева\source\repos\Shop\Models\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\калабаева\source\repos\Shop\Models\bin\Debug\AbstractModels.dll
+C:\Users\калабаева\source\repos\Shop\Models\bin\Debug\AbstractModels.pdb

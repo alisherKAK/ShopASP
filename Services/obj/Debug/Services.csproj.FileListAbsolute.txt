@@ -46,3 +46,6 @@ C:\Users\калабаева\source\repos\Shop\Services\bin\Debug\BCrypt.Net.dll
 C:\Users\калабаева\source\repos\Shop\Services\bin\Debug\BCrypt.Net.xml
 C:\Users\калабаева\source\repos\Shop\Services\bin\Debug\System.Web.Helpers.dll
 C:\Users\калабаева\source\repos\Shop\Services\bin\Debug\System.Web.Helpers.xml
+C:\Users\калабаева\source\repos\Shop\Services\bin\Debug\Models.dll.config
+C:\Users\калабаева\source\repos\Shop\Services\bin\Debug\AbstractModels.dll
+C:\Users\калабаева\source\repos\Shop\Services\bin\Debug\AbstractModels.pdb

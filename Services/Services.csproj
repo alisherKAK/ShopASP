@@ -77,13 +77,21 @@
   <ItemGroup>
     <Compile Include="Base64EncoderDecoder.cs" />
     <Compile Include="DataChecker.cs" />
+    <Compile Include="DbRespository.cs" />
+    <Compile Include="Factory.cs" />
     <Compile Include="FileServices.cs" />
     <Compile Include="Hashing.cs" />
     <Compile Include="HtmlTemplater.cs" />
     <Compile Include="Logger.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RepositoryFactory.cs" />
+    <Compile Include="ServiceProvider.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\AbstractModels\AbstractModels.csproj">
+      <Project>{a244a8f1-f301-4afb-b6d5-79457f685921}</Project>
+      <Name>AbstractModels</Name>
+    </ProjectReference>
     <ProjectReference Include="..\DataAccess\DataAccess.csproj">
       <Project>{F1F8ADC3-96F1-46E9-9A47-B4CD6E19B2E7}</Project>
       <Name>DataAccess</Name>

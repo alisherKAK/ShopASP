@@ -1,4 +1,9 @@
-﻿using System;
+﻿using DataAccess;
+using Models;
+using Ninject;
+using Services;
+using Shop.App_Start;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,27 +13,18 @@ namespace Shop.Controllers
 {
     public class ShopController : Controller
     {
-        private IShopService shopService;
-        public ShopController()
+        private readonly RepositoryFactory factory;
+
+        public ShopController(RepositoryFactory factory)
         {
-            Fabric fabric = new Fabric();
-            shopService =  fabric.Get();
+            this.factory = factory;
         }
-        // GET: Shop
         public ActionResult Index()
         {
-            //var cookie = new HttpCookie("userName", "admin");
-            //cookie.Expires = DateTime.Now.AddMinutes(10);
-            //HttpContext.Response.Cookies.Add(cookie);
-
-            //Session["userName"] = Session.SessionID;
-            //Session.Timeout = 50;
-            //Session.Abandon();
-
             return View();
         }
-
-        public ActionResult About()
+        [Route("home/{name}")]
+        public ActionResult About(int? name)
         {
             return View();
         }
